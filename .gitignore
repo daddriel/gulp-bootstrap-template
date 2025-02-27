@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log
+package-lock.json
+
+dist/
+*.map
+
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+.vscode/
+.idea/
+*.sublime-*

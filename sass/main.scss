@@ -1,0 +1,14 @@
+// Vendors Bootstrap
+@import './vendors/';
+// Variables 
+@import './variables';
+// Base 
+@import './base/index';
+// Modules 
+@import './modules/';
+
+.container-sm {
+  img {
+    height: 80px;
+  }
+}
